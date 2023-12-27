@@ -6,7 +6,7 @@
 
 [1.二分查找](https://github.com/12bitsD/MyAlog/blob/main/二分查找法-算法.md)
 
-[2.快速排序](https://github.com/12bitsD/MyAlog/blob/main/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
+[2.快速排序](https://github.com/12bitsD/MyAlog/blob/main/快速排序.md)
 
 ## 数据结构
 
